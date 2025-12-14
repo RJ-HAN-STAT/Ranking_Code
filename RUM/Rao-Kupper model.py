@@ -2,7 +2,7 @@
 """
 Created on Thu Sep 30 17:39:02 2021
 
-@author: ruijianhan
+@author: ruijian
 """
 
 
